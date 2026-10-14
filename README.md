@@ -2,7 +2,7 @@
 ### Widget: Hero, a widget that animates a shared element smoothly from one screen to another during navigation.
 
 ## Final UI Screenshot
-C:\Users\HP\leilawidget\screenshotsfinal_ui.png 
+[View the final UI screenshot](screenshots/final_ui.png)
 
 ## Case Scenario
 In an app like Carrefour Kenya, a shopper scrolls a grid of products with photos and prices. When they tap a product, a detail page opens with a larger photo and an "Add to cart" button. With Hero, the product photo grows from its position in the grid into the detail page and reverts when they go back, so the two screens feel connected. This demo uses the same pattern with a photo gallery: a grid of thumbnails opens into a full-screen photo, with extras like filters and a favorites heart. 
